@@ -1,0 +1,21 @@
+.header{
+    
+}
+.formBg{
+    background: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    padding: 20px;
+    text-align: left;
+}
+
+.jumbotron{
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
